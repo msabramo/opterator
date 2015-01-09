@@ -96,8 +96,6 @@ So, if your main function looks like this:
 
 Your help text will look like this::
 
-.. code-block:: none
-
   dusty:opterator $ python cp.py -h
   usage: cp.py [-h] [-r] [-b] [-S SUFFIX]
   filename1 filename2 [other_filenames [other_filenames ...]]
